@@ -1,0 +1,11 @@
+{
+  "name": "redevion/framework",
+  "description": "The REDEVION Framework",
+  "homepage": "http://redevion.com",
+  "authors": [
+    {
+      "name": "Bogusław Krawczyk",
+      "email": "contact@redevion.com"
+    }
+  ]
+}
